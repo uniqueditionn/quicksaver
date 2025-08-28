@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 python-telegram-bot==20.3
 yt-dlp
+=======
+python-telegram-bot==20.6
+yt-dlp
+requests
+>>>>>>> a248c5436c179e1d9297547a6031497e8d3d1be2
